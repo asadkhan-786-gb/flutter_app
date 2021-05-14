@@ -16,9 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # flutter_app
 # my_first_flutter_app
-# my_first_flutter_app
-# my_first_flutter_app
-# my_first_flutter_app
-# my_first_flutter_app
-# my_first_flutter_app
-# my_first_flutter_app
+
